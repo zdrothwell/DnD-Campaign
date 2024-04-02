@@ -1,4 +1,3 @@
-Continent of Amoth ![[ContinentofAmothMap.png]]
-
-![ContinentofAmothMap](quartz/ContinentofAmothMap.png?raw=true "Continent of Amoth")
+Continent of Amoth 
+![ContinentofAmothMap](ContinentofAmothMap.png = "Continent of Amoth")
 
