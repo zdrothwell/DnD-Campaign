@@ -6,5 +6,6 @@ longform:
   sceneFolder: /
   scenes: []
   ignoredFiles: []
-title: Continent Map
+title: Index
 ---
+[[Continent Map]]
