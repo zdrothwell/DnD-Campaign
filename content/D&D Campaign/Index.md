@@ -8,4 +8,8 @@ longform:
   ignoredFiles: []
 title: Index
 ---
-[[Continent Map]]
+Maps:
+	[[Continent Map]]
+	[[Kingdom Map]] - Kingdom of Asca
+		[[Map of Strok (Capital City)]]
+	
