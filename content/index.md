@@ -6,4 +6,4 @@ This page will be helpful to you adventurers as you partake of this journey. Aft
 Use the following links to find what you are looking for or use the search bar at the top of the website.
 
 
-[[Maps]]
+[[Map List]]
