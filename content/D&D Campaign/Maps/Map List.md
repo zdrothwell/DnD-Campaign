@@ -1,8 +1,7 @@
 
 
-[[Continent Map]]
+[[Continent Map]]\
 
-Kingdom of Asca:
-	[[Kingdom Map]]
-	[[Map of Strok (Capital City)]]
+	[[Kingdom Map]] - Kingdom of Asca\
+		[[Map of Strok (Capital City)]]
 	
