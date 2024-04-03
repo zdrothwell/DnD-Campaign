@@ -7,3 +7,5 @@ Use the following links to find what you are looking for or use the search bar a
 
 
 [[Map List]]
+[[Player Character List]]
+[[Known NPC List]]
