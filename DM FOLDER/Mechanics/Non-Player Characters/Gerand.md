@@ -1,29 +1,17 @@
 ---
 AssociatedGroup: 
-Gender: 
-Race: 
-Age: 
-Class: 
-Alignment: 
+Gender: Male
+Race: Human
+Age: "34"
+Class: Commoner
+Alignment: Neutral Good
 Character-Role: 
 Location: 
-AssociatedGroup: 
 NoteIcon: npc
 ---
 
-<% tp.file.title %>
-<% await tp.file.move("DM FOLDER/Mechanics/Non-Player Characters/" + tp.file.title) %>
+Untitled
 
-<%*
-const hasTitle = !tp.file.title.startsWith("NewNPC");
-let title;
-if (!hasTitle) {
-    title = await tp.system.prompt("Enter NPC Name");
-    await tp.file.rename(title);
-} else {
-    title = tp.file.title;
-}
-_%>
 
 > [!infobox]
 > # `=this.file.name`
@@ -48,12 +36,12 @@ _%>
 # `=this.file.name`
 ## Profile
 
-<% tp.file.cursor() %>
+
 **<Add description here, extend it with AI Text Generator using Ctrl J>**
 
 > [!info] Statblock
 > ```statblock
-> name: Individual
+> name: Gerand
 > monster: Commoner
 > columns: 1
 > ```
@@ -63,4 +51,5 @@ encounter-table
 name: Individual
 creatures:
  - 1: Commoner
+```
 
