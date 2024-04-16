@@ -1,9 +1,9 @@
 
-| Character Name | AC  |
-| -------------- | --- |
-| (Eli)          |     |
-| (Mike)         |     |
-| (Noah)         |     |
+| Character Name | Player | AC  | Pass Perc ( WIS) |
+| -------------- | ------ | --- | :--------------: |
+|                | Eli    |     |                  |
+|                | Mike   |     |                  |
+|                | Noah   |     |                  |
 
 ```button
 name New NPC

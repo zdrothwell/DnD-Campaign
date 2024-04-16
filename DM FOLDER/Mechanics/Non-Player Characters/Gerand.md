@@ -10,8 +10,6 @@ Location:
 NoteIcon: npc
 ---
 
-Untitled
-
 
 > [!infobox]
 > # `=this.file.name`
@@ -41,7 +39,7 @@ Untitled
 
 > [!info] Statblock
 > ```statblock
-> name: Gerand
+> name: Commoner
 > monster: Commoner
 > columns: 1
 > ```
