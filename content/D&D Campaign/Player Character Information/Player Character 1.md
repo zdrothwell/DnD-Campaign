@@ -1,42 +1,31 @@
+---
+aliases:
+  - Untitled
+tags: 
+cssclass:
+  - hcl, table, t-c, readable
+---
 
-alias: Untitled 
-tags: Entity/Player-Character, Multiverse/D&D 
-cssclass: hcl, table, t-c, readable 
 
-hp: 
-ac: 
-modifier: 
-
---- 
-%% 
-Creator:: 
-Universe:: 
-Campaign:: 
-Adventure_Diary:: 
-%% # Untitled 
-> (Description:: ) 
-![[|locl+hs-med] <i>[]()</i> 
-
-|| 
-----|:---:| 
-**Class** | 
-**Level** | 
-**Race** | 
-**Alignment** | 
-**Background** | 
+|                |     |
+| -------------- | --- |
+| **Class**      |     |
+| **Level**      |     |
+| **Race**       |     |
+| **Alignment**  |     |
+| **Background** |     |
 
 ---
 
 # Stats 
-HP | AC | Speed | Initiative | 
-:---:|:---:|:---:|:---:| 
-|||| 
 
-Hit Dice | 
-Proficiency Bonus | 
-Temp HP | 
-:---:|:---:|:---:| 
-||| 
+| HP  | AC  | Speed | Initiative |
+| --- | --- | ----- | ---------- |
+|     |     |       |            |
+
+| Hit Dice | Proficiency Bonus | Temp HP |
+| :------- | :---------------- | :------ |
+|          |                   |         |
 
 Senses | \# | 
 ---|---| 
@@ -104,4 +93,3 @@ CP | SP | EP | GP | PP |
 ###### Bonds 
 ###### Flaws ```
 
-```
