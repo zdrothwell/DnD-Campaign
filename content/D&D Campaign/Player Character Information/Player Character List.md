@@ -1,2 +1,2 @@
 
-[[Character Template]]
+[[Player Character 1]]
