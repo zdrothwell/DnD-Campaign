@@ -27,8 +27,8 @@ _%>
 
 > [!infobox]
 > # `=this.file.name`
-> ![[z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
-> [[z_Assets/Misc/ImagePlaceholder.png|Show To Players]]
+> ![[ImagePlaceholder.png|cover hsmall]]
+> [[ImagePlaceholder.png|Show To Players]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
@@ -57,10 +57,3 @@ _%>
 > monster: Commoner
 > columns: 1
 > ```
-
-```
-encounter-table
-name: Individual
-creatures:
- - 1: Commoner
-

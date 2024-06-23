@@ -1,20 +1,18 @@
 ---
-AssociatedGroup: 
+AssociatedGroup: Von Arstad Family
 Gender: Male
 Race: Human
-Age: "34"
-Class: Commoner
+Age: "22"
+Class: Noble
 Alignment: Neutral Good
-Character-Role: 
-Location: 
+Character-Role: Knight
+Location: Arstad Manor
 NoteIcon: npc
 ---
-
-
 > [!infobox]
 > # `=this.file.name`
-> ![[ImagePlaceholder.png|cover hsmall]]
-> [[ImagePlaceholder.png|Show To Players]]
+> ![[Ciaran Von Arstad.png]]
+> [[Ciaran Von Arstad.png|Show To Players]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
@@ -35,19 +33,12 @@ NoteIcon: npc
 ## Profile
 
 
-**<Add description here, extend it with AI Text Generator using Ctrl J>**
+**Ciaran Von Arstad is the second son to Tomas and Thea Von Arstad. He takes after his father in both his demeanor and skill with the sword. As he is not set to rule due to being the second in line to rule the Arstad Estate, he instead spends his time training to be the noble knight that he is.**
 
 > [!info] Statblock
 > ```statblock
-> name: Commoner
-> monster: Commoner
+> name: Ciaran Von Arstad
+> monster: Knight
 > columns: 1
 > ```
-
-```
-encounter-table
-name: Individual
-creatures:
- - 1: Commoner
-```
 
